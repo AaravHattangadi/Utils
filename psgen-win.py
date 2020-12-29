@@ -5,9 +5,9 @@ import sys
 
 alphabet = string.ascii_letters + string.digits
 i1 = input("How long should the password be?")
-i2 = input("Should I export your password to a encrypted text file? (y/n)")
+i2 = input("Should I export your password to a text file? (y/n)")
 bool1 = True if i2 == "y" else False
-print(bool1)
+
 
 number = int(i1)
 password = ''.join(secrets.choice(alphabet) for i in range(number))
