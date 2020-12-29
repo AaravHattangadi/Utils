@@ -5,4 +5,6 @@ A set of useful python utilites (may be pointless to you!)
   - [wlanpass](info/wlan.md)
   - [youtube-downloader](info/ytd.md)
   - [is-leap-year](info/leap.md)
-  - [psgen](info/psgen.md)
+  - [psgen-win](info/psgen.md)
+  - [keylogger](info/keylogger.md)
+
