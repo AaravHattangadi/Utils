@@ -1,0 +1,6 @@
+crypto==1.4.1
+cryptography==3.3.1
+str2bool==0.2
+pytube
+pynput
+names
